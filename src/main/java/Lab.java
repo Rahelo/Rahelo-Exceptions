@@ -19,8 +19,16 @@ public class Lab {
      * a method thrown to it. A try/catch block would handle the exception within the method.
      *
      * Check out this guide on throwing exceptions: https://rollbar.com/guides/java/how-to-throw-exceptions-in-java/#
+     * 
      */
     public void mustThrow() {
+        //public static void (String[] args) throws Exception{
+            //thrower = new Lab();
+       // thrower.mustThrow();
+       //static void testMethod() throws Exception {
+       String test = null;
+       test.toString();
 
+        }        
+        
     }
-}
